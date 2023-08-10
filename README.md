@@ -1,12 +1,13 @@
 # discord-webhook-sender (DWS)
 ![dws](https://raw.githubusercontent.com/thepyrite/discord-webhook-sender/main/dws.png)
-macos app to send messages through webhooks
+desktop app to send messages through discord webhooks
 
 basically it.
 
 ### compatibility
 
-macos.
+windows
+macos
 
 ### installation
 
