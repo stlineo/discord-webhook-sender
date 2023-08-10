@@ -1,6 +1,5 @@
 import tkinter as tk
-import requests
-from PIL import ImageTk, Image  
+import requests  
 
 def send_message():
     webhook_url = webhook_entry.get()
